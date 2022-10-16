@@ -12,6 +12,7 @@
 # Make and push changes
 ## Create and complete a PR
 ## Sync your fork to the latest
-    git fetch upstream main   : fork reflects the latest state of the repo.
-    git rebase upstream/main  : recommend rebasing on upstream's main branch (assuming main is the main development branch).
+    git fetch upstream master   : fork reflects the latest state of the repo.
+    git rebase upstream/master  : recommend rebasing on upstream's main branch (assuming main is the main development branch).
     git push origin
+
